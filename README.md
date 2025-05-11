@@ -1,6 +1,7 @@
 # Hi there 👋
 
 ## Currently Working On / Latest Work
+- [**Yomine**](https://github.com/mcgrizzz/Yomine) - A vocabulary mining tool for mining native japanese content.
 - [**Koemoe**](https://github.com/mcgrizzz/Koemoe) - ML Application for subtitle-naive Japanese dialogue extraction.
 
 ## Minecraft Plugins
