@@ -15,5 +15,3 @@
 ## Others
 - [**NVCP_Toggle**](https://github.com/mcgrizzz/NVCP_Toggle) - Toggle Nvidia Control Panel color settings.
 
-[![mcgrizzz's github stats](https://github-readme-stats.vercel.app/api?username=mcgrizzz&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
-
