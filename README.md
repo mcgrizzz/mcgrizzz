@@ -2,6 +2,7 @@
 
 ## 🤖 Latest Work
 - [**Yomine**](https://github.com/mcgrizzz/Yomine) - A vocabulary mining tool for mining native japanese content.
+- [**Tsunagi**](https://github.com/mcgrizzz/Tsunagi) - Work in progress anki addon to provide programmatic access to anki via a local HTTP server.
 - [**Koemoe**](https://github.com/mcgrizzz/Koemoe) - ML Application for subtitle-naive Japanese dialogue extraction.
 
 ## Minecraft Plugins
