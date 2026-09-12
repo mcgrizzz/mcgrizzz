@@ -1,18 +1,26 @@
 # Hi there 👋
 
+I'm a software developer with a Computer Science degree from NYU. A lot of what I build comes out of my hobbies, especially learning Japanese, cooking, and brewing.
+
 ## 🤖 Latest Work
-- [**Yomine**](https://github.com/mcgrizzz/Yomine) - A vocabulary mining tool for mining native japanese content.
-- [**Tsunagi**](https://github.com/mcgrizzz/Tsunagi) - Work in progress anki addon to provide programmatic access to anki via a local HTTP server.
-- [**Koemoe**](https://github.com/mcgrizzz/Koemoe) - ML Application for subtitle-naive Japanese dialogue extraction.
 
-## Minecraft Plugins
-- [**Proton**](https://github.com/mcgrizzz/Proton) - A library for reliable and flexible cross-server messaging using Redis or RabbitMQ.
-- [**ProRecipes**](https://github.com/mcgrizzz/ProRecipes) - Custom recipe management for Minecraft servers.
+* [**Yomine**](https://github.com/mcgrizzz/Yomine) - A tool for mining vocabulary from Japanese subtitles, books, and other native content.
+* [**Tsunagi**](https://github.com/mcgrizzz/Tsunagi) - An Anki add-on that provides programmatic access to Anki through a local HTTP API.
+* [**AjiLab**](https://github.com/mcgrizzz/AjiLab) - A self-hosted app for developing recipes and keeping track of how they change over time.
+* [**Toji**](https://github.com/mcgrizzz/toji) - A sake brewing calculator and planning tool.
 
-## Web Apps
-- [**InStockNotify**](https://github.com/mcgrizzz/InStockNotify) - Product tracking and alerts when products are back in stock.
-- [**Cstrike.bet**](https://github.com/mcgrizzz/Cstrike.bet) - CSGO roulette with Steam trading bot integration.
+## Older Projects
 
-## Others
-- [**NVCP_Toggle**](https://github.com/mcgrizzz/NVCP_Toggle) - Toggle Nvidia Control Panel color settings.
+* [**Koemoe**](https://github.com/mcgrizzz/Koemoe) - An ML app for extracting Japanese dialogue without relying on subtitles.
+* [**Proton**](https://github.com/mcgrizzz/Proton) - A library for cross-server messaging using Redis or RabbitMQ.
+* [**ProRecipes**](https://github.com/mcgrizzz/ProRecipes) - Custom recipe management for Minecraft servers.
 
+<details>
+<summary>View other retired projects</summary>
+
+
+* [**InStockNotify**](https://github.com/mcgrizzz/InStockNotify) - Tracks products and sends an alert when they're back in stock.
+* [**Cstrike.bet**](https://github.com/mcgrizzz/Cstrike.bet) - A CS:GO roulette site with Steam trading bot integration.
+* [**NVCP_Toggle**](https://github.com/mcgrizzz/NVCP_Toggle) - A small utility for toggling NVIDIA Control Panel color settings.
+
+</details>
