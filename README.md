@@ -1,8 +1,8 @@
-# Hi there 👋
+# Hi there!
 
 I'm a software developer with a Computer Science degree from NYU. A lot of what I build comes out of my hobbies, especially learning Japanese, cooking, and brewing.
 
-## 🤖 Latest Work
+## Latest Work
 
 * [**Yomine**](https://github.com/mcgrizzz/Yomine) - A tool for mining vocabulary from Japanese subtitles, books, and other native content.
 * [**Tsunagi**](https://github.com/mcgrizzz/Tsunagi) - An Anki add-on that provides programmatic access to Anki through a local HTTP API.
