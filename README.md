@@ -5,7 +5,7 @@ I'm a software developer with a Computer Science degree from NYU. A lot of what 
 ## Latest Work
 
 * [**Yomine**](https://github.com/mcgrizzz/Yomine) - A tool for mining vocabulary from Japanese subtitles, books, and other native content.
-* [**Tsunagi**](https://github.com/mcgrizzz/Tsunagi) - An Anki add-on that provides programmatic access to Anki through a local HTTP API.
+* [**Tsunagi**](https://github.com/mcgrizzz/Tsunagi) - Modern alternative to AnkiConnect
 * [**AjiLab**](https://github.com/mcgrizzz/AjiLab) - A self-hosted app for developing recipes and keeping track of how they change over time.
 * [**Toji**](https://github.com/mcgrizzz/toji) - A sake brewing calculator and planning tool.
 
